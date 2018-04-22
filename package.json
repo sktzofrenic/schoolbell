@@ -1,0 +1,27 @@
+{
+  "name": "schoolbell",
+  "version": "1.0.0",
+  "description": "For Curtis",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sktzofrenic/schoolbell.git"
+  },
+  "author": "Dan Safee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sktzofrenic/schoolbell/issues"
+  },
+  "homepage": "https://github.com/sktzofrenic/schoolbell#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.7.1",
+    "parcel-plugin-vue": "^1.5.0"
+  }
+}
